@@ -1,5 +1,5 @@
 # ![logo.png](img%2Flogo.png) Cinema-Service ![logo.png](img%2Flogo.png)
-This is a web application project is an imitation of the operation a cinema. 
+This web application project is an imitation of the operation of a cinema. 
 Service based on Hibernate and Spring frameworks using general REST principles.
 
 # ![gears_logo.png](img%2Fgears_logo.png) Features ![gears_logo.png](img%2Fgears_logo.png)
