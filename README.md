@@ -20,7 +20,7 @@ Service based on Hibernate and Spring frameworks using general REST principles.
 # ![start_logo.png](img%2Fstart_logo.png) Getting Started 
 * Clone repository from GitHub
 * Create an empty database
-* In [`db.properties`](\cinema-app\src\main\resources\db.properties) replace the values of the properties with the appropriate values for your database setup
+* In `db.properties` replace the values of the properties with the appropriate values for your database setup
 * Build the project using Maven: `mvn clean install`
 * Configure Apache Tomcat Artifact: war-exploded artifact, Application context: "/";
 * When the program starts, two users are added to the database, you can log in both:
