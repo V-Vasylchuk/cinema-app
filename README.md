@@ -27,6 +27,8 @@ Service based on Hibernate and Spring frameworks using general REST principles.
 1. **ADMIN**: `username`: admin@i.ua, `password`: admin123
 2. **USER**: `username`: user@i.ua, `password`: user123 
 3. Use `Postman` to send some http requests;
+4. Also, you can use my Postman request collection: [LINK](https://www.postman.com/vasylchuk/workspace/cinema-service/collection/3329996-3cf6002f-e5b9-42c5-93c6-dab9bca42c02?action=share&creator=3329996)
+5. Video tutorial how to work with Postman and the collection of requests that I created. [VIDEO](https://komododecks.com/recordings/oGdIveZwNmb3kZqf0vH2)
 
 # ![layer_logo.png](img%2Flayer_logo.png)Structure description:
 * `config`: classes for configuration of application operation
